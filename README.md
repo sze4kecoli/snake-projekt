@@ -1,2 +1,5 @@
 # snake-projekt
-Num nyilas snake játék webböngészőbe
+SNAKE JÁTÉK
+Flutterben, dart nyelven
+
+Irányítás: Num nyilak
